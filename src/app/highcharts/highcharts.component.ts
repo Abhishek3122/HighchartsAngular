@@ -55,7 +55,7 @@ export class HighchartsComponent {
       enabled: true,
       //  url: 'http://localhost:4200',
       // url: 'http://localhost:7801/',
-      // url: 'http://localhost:7801/',
+
       url: 'https://export.highcharts.com/',
       // fallbackToExportServer: false,
       buttons: {
