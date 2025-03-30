@@ -54,9 +54,8 @@ export class HighchartsComponent {
     exporting: {
       enabled: true,
       //  url: 'http://localhost:4200',
-      // url: 'http://localhost:7801/',
-
       url: 'https://export.highcharts.com/',
+      // url: 'http://localhost:7801/',
       // fallbackToExportServer: false,
       buttons: {
         contextButton: {
